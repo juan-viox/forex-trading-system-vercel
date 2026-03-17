@@ -1,0 +1,2 @@
+# Python dependencies for Vercel
+# No Flask needed for serverless functions
